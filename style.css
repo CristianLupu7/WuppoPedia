@@ -77,10 +77,6 @@ li {
     margin-bottom: 25px;
 }
 
-.text-image p {
-    flex: 1;
-}
-
 .text-image img {
     width: 300px;
     height: auto;
@@ -102,3 +98,4 @@ li {
         font-size: 48px;
     }
 }
+
